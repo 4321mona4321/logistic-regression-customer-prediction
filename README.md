@@ -1,4 +1,4 @@
-# logistic-regression-customer-prediction
+# Logistic-regression-customer-prediction
 # Binary Logistic Regression Classifier - Customer Purchase Prediction
 
 ## Project Overview
@@ -75,7 +75,7 @@ Evaluating probability cutoffs from $\tau = 0.20$ to $\tau = 0.80$:
 ## How to Run
 ```bash
 # Clone repository
-git clone 
+git clone - https://github.com/4321mona4321/logistic-regression-customer-prediction/tree/main
 
 # Install requirements
 pip install pandas numpy scikit-learn matplotlib seaborn
